@@ -9,6 +9,27 @@ General notes, articles and thougts on what I consider good Engineering Manageme
 1. To evaluate a manager, look at their team.
 1. The most significant advantage of a manager is the expanded perspective.
 
+Good managers, lead by context and avoid sugar coating things for people; and yet at the same time are effective shields from politics and unecessary noise that might distract their teams.
+
+### Principles 
+
+* Have a bias for action and decision-making
+* Favour asynchronous comunication
+* Work backwards, focus on the outcomes first.
+* No tasks is beneath a manager. Get your hands dirty and unblock your team.
+* Communicate and do it often.
+* Encourage ownership by asking questions.
+* Be the cheerleader. Celebrate the sucess often and reinforce positive behaivour.
+
+## Playbooks 
+
+* [1on1s](playbooks/1on1.md)
+* [Career Growth and Job Ladder](playbooks/career-growth.md)
+* [Code Reviews](playbooks/code-reviews.md)
+* [Conflict Resolution](playbooks/conflict-resolution.md)
+* [Decision Making](playbooks/decision-making.md)
+* [Feedback and Performance Management](playbooks/feedback-performance-management.md)
+
 
 ## Notes
 
@@ -27,11 +48,3 @@ General notes, articles and thougts on what I consider good Engineering Manageme
 * [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.uy7x227pc)
 * [What are the signs that you have a great manager](https://news.ycombinator.com/item?id=20230133)
 
-## Playbooks 
-
-* [1on1s](playbooks/1on1.md)
-* [Career Growth and Job Ladder](playbooks/career-growth.md)
-* [Code Reviews](playbooks/code-reviews.md)
-* [Conflict Resolution](playbooks/conflict-resolution.md)
-* [Decision Making](playbooks/decision-making.md)
-* [Feedback and Performance Management](playbooks/feedback-performance-management.md)
